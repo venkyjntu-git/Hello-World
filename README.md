@@ -1,2 +1,2 @@
 # Hello-World
-Learning How to Use GitHub
+Learning How to Use GitHub, wow! first commit
